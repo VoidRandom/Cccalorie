@@ -1,5 +1,7 @@
 <template>
-    <h1></h1>
+  <el-main>
+      <h1>111</h1>
+  </el-main>
 </template>
 <script>
 export default {

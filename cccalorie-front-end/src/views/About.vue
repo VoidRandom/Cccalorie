@@ -1,7 +1,7 @@
 <template>
-  <div class="about">
+  <el-main class="about">
     <h1>This is an about page</h1>
-  </div>
+  </el-main>
 </template>
 <script>
 export default {
